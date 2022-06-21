@@ -16,4 +16,5 @@ Some places I pick wallpapers:
 - [Aenami](https://www.reddit.com/user/Aenami/)  
 - [The archillect bot archive](https://archillect.com/archive)  
 - [Nord wallpapers collection](https://github.com/linuxdotexe/nordic-wallpapers)  
+- [Other people's collection such as](https://github.com/FrenzyExists/wallpapers)
 - A lot of random places on the internet
